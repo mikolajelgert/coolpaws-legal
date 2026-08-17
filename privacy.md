@@ -1,8 +1,8 @@
 # Polityka prywatności CoolPaws
 
-**Obowiązuje od:** {{DATA_OBOWIAZYWANIA}}
-**Administrator danych:** {{NAZWA_DEWELOPERA}}
-**Kontakt:** {{ADRES_KONTAKTOWY}}
+**Obowiązuje od:** 17.08.2026
+**Administrator danych:** Mikołaj Elgert
+**Kontakt:** pocketgridapps@gmail.com
 
 *[English version below](#coolpaws-privacy-policy)*
 
