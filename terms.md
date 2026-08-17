@@ -1,7 +1,7 @@
 # Regulamin CoolPaws
 
-**Obowiązuje od:** {{DATA_OBOWIAZYWANIA}}
-**Kontakt:** {{ADRES_KONTAKTOWY}}
+**Obowiązuje od:** 17.08.2026
+**Kontakt:** pocketgridapps@gmail.com
 
 *[English version below](#coolpaws-terms-of-use)*
 
