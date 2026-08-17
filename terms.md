@@ -42,8 +42,8 @@ Zmiany będą publikowane w tym dokumencie wraz z aktualizacją daty obowiązywa
 
 # CoolPaws terms of use
 
-**Effective from:** {{DATA_OBOWIAZYWANIA}}
-**Contact:** {{ADRES_KONTAKTOWY}}
+**Effective from:** 17.08.2026
+**Contact:** pocketgridapps@gmail.com
 
 Please read this before relying on a reading — it sets out what the app is and, more importantly, what it is not.
 
