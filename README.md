@@ -13,7 +13,7 @@ CoolPaws to aplikacja na Androida dla właścicieli psów. Wylicza temperaturę 
 
 ## Kontakt
 
-Pytania o te dokumenty lub o dane: {{ADRES_KONTAKTOWY}}
+Pytania o te dokumenty lub o dane: pocketgridapps@gmail.com
 
 ---
 
