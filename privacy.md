@@ -61,9 +61,9 @@ Nic więcej nie opuszcza telefonu.
 
 # CoolPaws privacy policy
 
-**Effective from:** {{DATA_OBOWIAZYWANIA}}
-**Data controller:** {{NAZWA_DEWELOPERA}}
-**Contact:** {{ADRES_KONTAKTOWY}}
+**Effective from:** 17.08.2026
+**Data controller:** Mikołaj Elgert
+**Contact:** pocketgridapps@gmail.com
 
 CoolPaws needs very little about you, and what it does need stays on your phone.
 
